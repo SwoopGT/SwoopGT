@@ -1,8 +1,6 @@
 <h1 align="center">Hello there 👋, I'm Swaroop Todankar</h1>
 <h3 align="center">I'm a Data Analyst, Author, Entrepreneur and Astrophysics enthusiast!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swoopgt" alt="swoopgt" /></a> </p>
-
 - 🔭 I’m currently working on **Computer Vision**
 
 - 🌱 I’m currently learning **HTML5 and CSS**
@@ -30,3 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swoopgt&show_icons=true&locale=en&layout=compact" alt="swoopgt" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swoopgt&show_icons=true&locale=en" alt="swoopgt" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swoopgt" alt="swoopgt" /></a> </p>
