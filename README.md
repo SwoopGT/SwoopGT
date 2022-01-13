@@ -27,4 +27,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swoopgt&show_icons=true&locale=en&layout=compact" alt="swoopgt" height="150" width="350"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swoopgt&show_icons=true&locale=en" alt="swoopgt" height="160" width="350"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swoopgt&show_icons=true&locale=en" alt="swoopgt" height="170" width="350"/></p>
