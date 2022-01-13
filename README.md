@@ -27,6 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swoopgt&show_icons=true&locale=en&layout=compact" alt="swoopgt" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swoopgt&show_icons=true&locale=en" alt="swoopgt" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=swoopgt&show_icons=true&locale=en" alt="swoopgt" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swoopgt" alt="swoopgt" /></a> </p>
